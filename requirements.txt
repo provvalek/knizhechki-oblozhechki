@@ -17,8 +17,6 @@ cffi==1.14.0
 chardet 
 Click==7.0
 colorama 
-conda==4.10.1
-conda-package-handling 
 cryptography 
 Flask==1.1.1
 Flask-Bcrypt
