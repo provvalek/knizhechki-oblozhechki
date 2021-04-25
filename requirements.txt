@@ -35,7 +35,6 @@ lazy-object-proxy
 Mako==1.1.2
 MarkupSafe==1.1.1
 mccabe==0.6.1
-menuinst==1.4.16
 multidict==5.1.0
 numpy==1.19.2
 pdfkit==0.6.1
