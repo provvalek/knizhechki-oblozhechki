@@ -8,4 +8,4 @@ flask_uploads==0.2.1
 flask_wtf==0.14.3
 WTForms==2.3.3
 Werkzeug==0.16.0
-email-validator
+email_validator
